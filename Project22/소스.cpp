@@ -30,6 +30,6 @@ int main() {
 	Student& hong = knu.findStudentWithName("Hong");
 	hong.setGPA(3.3F);
 	hong.setName("Joon");
-	//knu.print();*/
+	knu.print();
 	system("pause");
 }
